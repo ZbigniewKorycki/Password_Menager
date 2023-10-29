@@ -1,0 +1,1 @@
+EMAIL_ADDRESS = "ZbigniewKorycki.info@gmail.com"
